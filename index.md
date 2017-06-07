@@ -19,7 +19,7 @@ What does all of this mean?  Let's go through step by step.
 <br><br><br><br><br><br>
 <hr>
 
-### Blocking ads
+### - - - - - - - "Is your browser blocking tracking ads?" - - - - - - - 
 TODO: ...not just annoying, but potentially invasive....(why you should care, etc)
 #### No longer an all-or-nothing approach
 TODO: explain how to support content providers without giving up so much privacy
@@ -27,7 +27,7 @@ TODO: explain how to support content providers without giving up so much privacy
 <br><br><br><br><br><br>
 <hr>
 
-### Invisible Trackers?
+### - - - - - - - "Is your browser blocking invisible trackers?" - - - - - - - 
 
 Everyone has heard of web cookies (which store small amounts of data from a website you visit), but 'invisible trackers' sound (and are) much more ominous. These invisible trackers  ("non-visible tracking beacons") are often scripts that runs in the background, as opposed to say, a visible ad.  They may track you across [multiple domains](https://medium.com/building-contently/tracking-people-across-multiple-domains-when-cookies-just-arent-enough-b270cc95beb1) and broadly share your information.
 
@@ -51,17 +51,23 @@ From the Privacy Badger [FAQ](https://www.eff.org/privacybadger#faq-What-is-Priv
 <br><br><br><br><br><br>
 <hr>
 
-###  3rd parties that promise to honor Do Not Track:
+###  - - - - - - "Does your browser unblock 3rd parties that promise to honor Do Not Track?" - - - - - - 
 TODO text
 
-### Now, recheck your current level of tracking protection!
+## Now, recheck your current level of tracking protection!
 ![Image](last.jpeg)
 
 At this point you will likely see three green checkmarks, but still that last pesky red X.  Why is that?
 
-#### Browser fingerprinting
+### - - - - - - - Browser fingerprinting - - - - - - - 
 Getting rid of your browser fingerprint is much, much trickier than a simple browser extension.  One [article](https://nakedsecurity.sophos.com/2014/07/28/panopticlick-reveals-the-cookie-you-cant-delete/) calls it "the cookie you can't delete".
+
+After you run the fingerprinting tool, click on the 'fingerprinting' link to see how unique your browser combintation is.  *(This is one of the rare times that I feel less secure being a Linux user.)*
+
+The reason that it is [hard](https://www.eff.org/privacybadger#faq-Does-Privacy-Badger-prevent-fingerprinting?) to hide this because it is a characteristic of your browser configuration. It is not pratical to block or fake all information, such as the user agent string (ex: 'Mozilla/5.0') from your browser, although some techniques may help.
 
 ---
 ## Some other browser extensions to consider
-As this is a short intro, this barely scratches the surface....
+As this is a short intro, this barely scratches the surface.  I won't attempt to cover more than a few, but some of the favorites that crop up are listed here. Besides changing the browser-provided [settings](https://medium.com/p/4d3b58b4341a#78d0), some are:
+
+TODO
