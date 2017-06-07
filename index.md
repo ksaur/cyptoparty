@@ -1,7 +1,7 @@
 ## Welcome to Browser Extensions and Security for the [PDX Women In Tech (PDXWIT) CryptoParty](https://www.meetup.com/ChickTech-Portland/events/240049691/)!
 
 This information will provide a quick overview about why you should care about browser privacy and about the extensions you can easily use to enhance your privacy.
-
+<hr>
 
 
 ### What is your current level of tracking protection?
@@ -15,11 +15,17 @@ On first run of the tool, you may see results that look like this:
 
 What does all of this mean?  Let's go through step by step.
 
+
+<br><br><br><br><br><br>
+<hr>
+
 ### Blocking ads
 TODO: ...not just annoying, but potentially invasive....(why you should care, etc)
 #### No longer an all-or-nothing approach
 TODO: explain how to support content providers without giving up so much privacy
 
+<br><br><br><br><br><br>
+<hr>
 
 ### Invisible Trackers?
 
@@ -42,6 +48,9 @@ Internet tracking is about much more than annoying ads. From an [article](http:/
 From the Privacy Badger [FAQ](https://www.eff.org/privacybadger#faq-What-is-Privacy-Badger?):
 >Privacy Badger is a browser add-on that stops advertisers and other third-party trackers from secretly tracking where you go and what pages you look at on the web.  If an advertiser seems to be tracking you across multiple websites without your permission, Privacy Badger automatically blocks that advertiser from loading any more content in your browser.  To the advertiser, it's like you suddenly disappeared.
 
+<br><br><br><br><br><br>
+<hr>
+
 ###  3rd parties that promise to honor Do Not Track:
 TODO text
 
@@ -51,7 +60,7 @@ TODO text
 At this point you will likely see three green checkmarks, but still that last pesky red X.  Why is that?
 
 #### Browser fingerprinting
-Getting rid of your browser fingerprint is much, much trickier than a simple browser extension.  One [article] (https://nakedsecurity.sophos.com/2014/07/28/panopticlick-reveals-the-cookie-you-cant-delete/) calls it "the cookie you can't delete".
+Getting rid of your browser fingerprint is much, much trickier than a simple browser extension.  One [article](https://nakedsecurity.sophos.com/2014/07/28/panopticlick-reveals-the-cookie-you-cant-delete/) calls it "the cookie you can't delete".
 
 ---
 ## Some other browser extensions to consider
