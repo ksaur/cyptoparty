@@ -1,37 +1,44 @@
-## Welcome to GitHub Pages
+## Welcome to Browser Extensions and Security for the [PDX Women In Tech (PDXWIT) CryptoParty](https://www.meetup.com/ChickTech-Portland/events/240049691/)!
 
-You can use the [editor on GitHub](https://github.com/ksaur/cyptoparty/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+This station will provide a quick overview about why you should care about browser privacy and about the extensions you can easily use to enhance your privacy.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### What is your current level of tracking protection?
 
-```markdown
-Syntax highlighted code block
+First, a quick checkup to see where we're at now.  Go to Panopticlick at [https://panopticlick.eff.org/](https://panopticlick.eff.org/), a free checkup tool provided by the [EFF (Electronic Frontier Foundation)](https://www.eff.org/).
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
+On first run of the tool, you may see results that look like this:
 
-1. Numbered
-2. List
+![Image](first.jpeg)
 
-**Bold** and _Italic_ and `Code` text
+What does all of this mean?  Let's go through step by step.
 
-[Link](url) and ![Image](src)
-```
+### Blocking ads
+TODO: ...not just annoying, but potentially invasive....(why you should care, etc)
+#### No longer an all-or-nothing approach
+TODO: explain how to support content providers without giving up so much privacy
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
+### Invisible Trackers?
+TODO: quick definitn
+#### Why you should care about invisible trackers
+TODO: text
+#### What you can do about it
+TODO: text
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ksaur/cyptoparty/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+###  3rd parties that promise to honor Do Not Track:
+TODO text
 
-### Support or Contact
+### Now, recheck your current level of tracking protection!
+![Image](last.jpeg)
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+At this point you will likely see three green checkmarks, but still that last pesky red X.  Why is that?
+
+#### Browser fingerprinting
+TODO
+
+---
+## Some other browser extensions to consider
+As this is a short intro, this barely scratches the surface....
