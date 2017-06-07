@@ -37,13 +37,19 @@ TODO: explain how to support content providers without giving up so much privacy
 
   * Used to track single site, stored minimal data
 
+<br>
+
 * **Now**: 'Invisible trackers' - much more ominous. (Cookies on steriods)
 
   * "non-visible tracking beacons" are often scripts that runs in the background, as opposed to say, a visible ad.  
 
   * They may track you across [multiple domains](https://medium.com/building-contently/tracking-people-across-multiple-domains-when-cookies-just-arent-enough-b270cc95beb1) and broadly share your information.
 
-Internet tracking is an entire industry, it may track you from site to site storing a wide variety of your keystrokes and clicks, and has evolved significantly beyond simple single-site cookies. This practice is very [widespread](https://webtransparency.cs.princeton.edu/webcensus/index.html#results).
+* Internet tracking is an entire industry, 
+ 
+  * May track you from site to site storing a wide variety of your keystrokes and clicks, and has evolved significantly beyond simple single-site cookies. 
+  
+  * This practice is very [widespread](https://webtransparency.cs.princeton.edu/webcensus/index.html#results).
 
 <br><br><br><br><br><br>
 
@@ -52,9 +58,14 @@ Internet tracking is an entire industry, it may track you from site to site stor
 Internet tracking is about much more than annoying ads. From an [article](http://www.itworld.com/article/2710565/it-management/four-reasons-why-you-should-worry-about-online-tracking--and-advertising-isn-t-one-of-them-.html) on ITWorld.com, four good reasons why you should worry about tracking are:
 
 1. **Variable pricing**: Websites can charge you more if they know what you might be willing to pay
+
 2. **Tracking your interests a bit too far**: If a website knows your every 'like', they can develop a profile of you and make *very* personal assumptions.
+
 3. **Weblining**: Similar to 'redlining', this may allow companies to make assumptions about you that lead to business decisions that may negatively impact you, such as charging you more for insurance if you smoke.
+
 4. **False Assumptions**: If you share a browser with others or create multiple fake profiles to disguise yourself, you could still suffer the similar unfair business or pricing practices described above.
+
+<br><br><br><br><br><br>
 
 #### What you can do about it
 [Privacy Badger](https://www.eff.org/privacybadger) is one of the most common browser extensions for tracker protecton is created directly by EFF.
@@ -69,9 +80,17 @@ From the Privacy Badger [FAQ](https://www.eff.org/privacybadger#faq-What-is-Priv
 
 ![Image](dnt.jpeg)
 
-TODO text
+* An HTTP header can express a user's desire to not be tracked: [Tracking Preference Expression (DNT)](https://www.w3.org/TR/tracking-dnt/)
 
-## Now, recheck your current level of tracking protection!
+* **Important:** This DNT header only expresses your *preference*, websites can [choose to ignore it](https://arstechnica.com/business/2015/11/fcc-wont-force-websites-to-honor-do-not-track-requests/)
+
+* Browsers have settings that enable you to mark "Do Not Track".  See [https://allaboutdnt.com/](https://allaboutdnt.com/):
+> DNT is a web browser setting that requests that a web application disable its tracking of an individual user. When you choose to turn on the DNT setting in your browser, your browser sends a special signal to websites, analytics companies, ad networks, plug in providers, and other web services you encounter while browsing to stop tracking your activity.
+
+<br><br><br><br><br><br>
+<hr>
+
+## Now, recheck your current level of browser tracking protection!
 
 ![Image](last.jpeg)
 
