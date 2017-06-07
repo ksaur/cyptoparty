@@ -26,6 +26,9 @@ TODO: ...not just annoying, but potentially invasive....(why you should care, et
 #### No longer an all-or-nothing approach
 TODO: explain how to support content providers without giving up so much privacy
 
+TODO 
+Adguard, Adblock Plus,
+
 <br><br><br><br><br><br>
 <hr>
 
@@ -96,6 +99,10 @@ From the Privacy Badger [FAQ](https://www.eff.org/privacybadger#faq-What-is-Priv
 
 At this point you will likely see three green checkmarks, but still that last pesky red X.  Why is that?
 
+<br><br><br><br><br><br>
+<hr>
+
+
 ## Browser Fingerprinting
 
 ![Image](fp.jpeg)
@@ -105,10 +112,26 @@ After you run the fingerprinting tool, click on the 'fingerprinting' link to see
 
 The reason that it is [hard](https://www.eff.org/privacybadger#faq-Does-Privacy-Badger-prevent-fingerprinting?) to hide this because it is a characteristic of your browser configuration. It is not pratical to block or fake all information, such as the user agent string (ex: 'Mozilla/5.0') from your browser, although some techniques may help.
 
----
+<br><br><br><br><br><br>
+<hr>
+
 ## Some other browser extensions to consider
 As this is a short intro, this barely scratches the surface.  I won't attempt to cover more than a few, but some of the favorites that crop up are listed here. Besides changing the browser-provided [settings](https://medium.com/p/4d3b58b4341a#78d0), some are:
 
-TODO
-Adguard, Adblock Plus, Do not Track, Ghostery, and HTTPS Everywhere extensions. Others I've heard mentioned are Lightbeam, Disconnect, and Flashblock.
+* [Ghostery](https://www.ghostery.com/products/): Ghostery detects and blocks tracking technologies on the websites you visit to speed up page loads, eliminate clutter, and protect your data and privacy.  It also keeps you informed on what companies are tracking you and gives you the tools you need to determine what to block and when.  
+
+* [HTTPS Everywhere](https://www.eff.org/https-everywhere): From the EFF, writes requests to these sites to HTTPS
+
+* Lightbeam
+
+* Disconnect
+
+* Flashblock
+
+**Important**: Before installing any extension, make sure to *do your research*: 
+
+* If it's from a reputable organization such as the EFF, then you can likely feel safe installing it.  
+
+* If the extension seems dubious in origin, make sure you do some background digging to make sure you're not accidentally installing malware on your machine, *especially* if the extension seems to be asking for lots of permissions.
+
 
