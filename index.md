@@ -19,7 +19,9 @@ What does all of this mean?  Let's go through step by step.
 <br><br><br><br><br><br>
 <hr>
 
-### - - - - - - - "Is your browser blocking tracking ads?" - - - - - - - 
+### Ad block
+
+![Image](ads.jpeg)
 TODO: ...not just annoying, but potentially invasive....(why you should care, etc)
 #### No longer an all-or-nothing approach
 TODO: explain how to support content providers without giving up so much privacy
@@ -27,11 +29,23 @@ TODO: explain how to support content providers without giving up so much privacy
 <br><br><br><br><br><br>
 <hr>
 
-### - - - - - - - "Is your browser blocking invisible trackers?" - - - - - - - 
+### Invisible Trackers
 
-Everyone has heard of web cookies (which store small amounts of data from a website you visit), but 'invisible trackers' sound (and are) much more ominous. These invisible trackers  ("non-visible tracking beacons") are often scripts that runs in the background, as opposed to say, a visible ad.  They may track you across [multiple domains](https://medium.com/building-contently/tracking-people-across-multiple-domains-when-cookies-just-arent-enough-b270cc95beb1) and broadly share your information.
+![Image](tracks.jpeg)
+
+* **Old school**: Cookies - store small amounts of data from websites you visit 
+
+  * Used to track single site, stored minimal data
+
+* **Now**: 'Invisible trackers' - much more ominous. (Cookies on steriods)
+
+  * "non-visible tracking beacons" are often scripts that runs in the background, as opposed to say, a visible ad.  
+
+  * They may track you across [multiple domains](https://medium.com/building-contently/tracking-people-across-multiple-domains-when-cookies-just-arent-enough-b270cc95beb1) and broadly share your information.
 
 Internet tracking is an entire industry, it may track you from site to site storing a wide variety of your keystrokes and clicks, and has evolved significantly beyond simple single-site cookies. This practice is very [widespread](https://webtransparency.cs.princeton.edu/webcensus/index.html#results).
+
+<br><br><br><br><br><br>
 
 #### Why you should care about invisible trackers
 
@@ -51,15 +65,21 @@ From the Privacy Badger [FAQ](https://www.eff.org/privacybadger#faq-What-is-Priv
 <br><br><br><br><br><br>
 <hr>
 
-###  - - - - - - "Does your browser unblock 3rd parties that promise to honor Do Not Track?" - - - - - - 
+### Do Not Track
+
+![Image](dnt.jpeg)
+
 TODO text
 
 ## Now, recheck your current level of tracking protection!
+
 ![Image](last.jpeg)
 
 At this point you will likely see three green checkmarks, but still that last pesky red X.  Why is that?
 
-### - - - - - - - Browser fingerprinting - - - - - - - 
+## Browser Fingerprinting
+
+![Image](fp.jpeg)
 Getting rid of your browser fingerprint is much, much trickier than a simple browser extension.  One [article](https://nakedsecurity.sophos.com/2014/07/28/panopticlick-reveals-the-cookie-you-cant-delete/) calls it "the cookie you can't delete".
 
 After you run the fingerprinting tool, click on the 'fingerprinting' link to see how unique your browser combintation is.  *(This is one of the rare times that I feel less secure being a Linux user.)*
@@ -71,3 +91,5 @@ The reason that it is [hard](https://www.eff.org/privacybadger#faq-Does-Privacy-
 As this is a short intro, this barely scratches the surface.  I won't attempt to cover more than a few, but some of the favorites that crop up are listed here. Besides changing the browser-provided [settings](https://medium.com/p/4d3b58b4341a#78d0), some are:
 
 TODO
+Adguard, Adblock Plus, Do not Track, Ghostery, and HTTPS Everywhere extensions. Others I've heard mentioned are Lightbeam, Disconnect, and Flashblock.
+
