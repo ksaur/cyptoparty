@@ -3,8 +3,6 @@
 This information will provide a quick overview about why you should care about browser privacy and about the extensions you can easily use to enhance your privacy.
 <hr>
 
-[test](test)
-
 ### What is your current level of tracking protection?
 
 First, a quick checkup to see where we're at now.  Go to Panopticlick at [https://panopticlick.eff.org/](https://panopticlick.eff.org/), a free checkup tool provided by the [EFF (Electronic Frontier Foundation)](https://www.eff.org/).
@@ -23,12 +21,17 @@ What does all of this mean?  Let's go through step by step.
 ### Ad block
 
 ![Image](ads.jpeg)
-TODO: ...not just annoying, but potentially invasive....(why you should care, etc)
-#### No longer an all-or-nothing approach
-TODO: explain how to support content providers without giving up so much privacy
 
-TODO 
-Adguard, Adblock Plus,
+Ads can be annoying or invasive, and some may track and share information about what you click.
+
+One of the most common ad-blockers is [Ad Block Plus](https://adblockplus.org/).
+
+#### No longer an all-or-nothing approach
+
+* A somewhat newer approach to ad blocking allows some ads to load when they are non-tracking and non-invasive. See Ad Block Plus' [Acceptable Ad](https://adblockplus.org/acceptable-ads) page. 
+
+* This approach allows you to support content providers (such as a newspaper for example) as long as their advertisers agree to 'play nice'
+
 
 <br><br><br><br><br><br>
 <hr>
