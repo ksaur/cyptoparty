@@ -3,6 +3,7 @@
 This information will provide a quick overview about why you should care about browser privacy and about the extensions you can easily use to enhance your privacy.
 <hr>
 
+[test](test)
 
 ### What is your current level of tracking protection?
 
