@@ -24,7 +24,10 @@ What does all of this mean?  Let's go through step by step.
 
 Ads can be annoying or invasive, and some may track and share information about what you click.
 
+
+#### What you can do about it
 One of the most common ad-blockers is [Ad Block Plus](https://adblockplus.org/).
+
 
 #### No longer an all-or-nothing approach
 
@@ -77,10 +80,19 @@ Internet tracking is about much more than annoying ads. From an [article](http:/
 <br><br><br><br><br><br>
 
 #### What you can do about it
-[Privacy Badger](https://www.eff.org/privacybadger) is one of the most common browser extensions for tracker protection is created directly by EFF.
+**On non-mobile Chrome / Firefox / Opera:** [Privacy Badger](https://www.eff.org/privacybadger) is one of the most common browser extensions for tracker protection is created directly by EFF.
 
 From the Privacy Badger [FAQ](https://www.eff.org/privacybadger#faq-What-is-Privacy-Badger?):
 >Privacy Badger is a browser add-on that stops advertisers and other third-party trackers from secretly tracking where you go and what pages you look at on the web.  If an advertiser seems to be tracking you across multiple websites without your permission, Privacy Badger automatically blocks that advertiser from loading any more content in your browser.  To the advertiser, it's like you suddenly disappeared.
+
+<br><br>
+
+**On Andriod:** Since Privacy Badger doesn't yet work for mobile, one (of many) options is to install the [WARP](https://www.eff.org/deeplinks/2016/11/delivering-privacy-badger-and-https-everywhere-mobile-users-warp-speed) browser:
+>WARP is a patched version of Google's Chromium codebase. Its built-in features include Web Defender, which is a privacy mechanism that is compatible with EFF’s Privacy Badger
+
+<br><br>
+
+**On iPhone:** Similar to WARP, the [Brave](https://itunes.apple.com/us/app/brave-web-browser/id1052879175) browser is a good option.
 
 <br><br><br><br><br><br>
 <hr>
@@ -93,8 +105,12 @@ From the Privacy Badger [FAQ](https://www.eff.org/privacybadger#faq-What-is-Priv
 
 * **Important:** This DNT header only expresses your *preference*, websites can [choose to ignore it](https://arstechnica.com/business/2015/11/fcc-wont-force-websites-to-honor-do-not-track-requests/)
 
+#### What you can do about it
+
 * Browsers have settings that enable you to mark "Do Not Track".  See [https://allaboutdnt.com/](https://allaboutdnt.com/):
 > DNT is a web browser setting that requests that a web application disable its tracking of an individual user. When you choose to turn on the DNT setting in your browser, your browser sends a special signal to websites, analytics companies, ad networks, plug in providers, and other web services you encounter while browsing to stop tracking your activity.
+
+* Remember, this is by far from a fail-proof method...you can't really control what other sites do, and what exactly DNT means and how it is implemented varies widely.
 
 <br><br><br><br><br><br>
 <hr>
