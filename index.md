@@ -46,13 +46,15 @@ One of the most common ad-blockers is [Ad Block Plus](https://adblockplus.org/).
 
 <br>
 
-* **Now**: 'Invisible trackers' - much more ominous. (Cookies on steriods)
+* **Now**: 'Invisible trackers' - much more ominous. (Cookies on steroids)
 
   * "non-visible tracking beacons" are often scripts that runs in the background, as opposed to say, a visible ad.  
 
   * They may track you across [multiple domains](https://medium.com/building-contently/tracking-people-across-multiple-domains-when-cookies-just-arent-enough-b270cc95beb1) and broadly share your information.
 
-* Internet tracking is an entire industry, 
+<br>
+
+* Internet tracking is an entire industry 
  
   * May track you from site to site storing a wide variety of your keystrokes and clicks, and has evolved significantly beyond simple single-site cookies. 
   
@@ -75,7 +77,7 @@ Internet tracking is about much more than annoying ads. From an [article](http:/
 <br><br><br><br><br><br>
 
 #### What you can do about it
-[Privacy Badger](https://www.eff.org/privacybadger) is one of the most common browser extensions for tracker protecton is created directly by EFF.
+[Privacy Badger](https://www.eff.org/privacybadger) is one of the most common browser extensions for tracker protection is created directly by EFF.
 
 From the Privacy Badger [FAQ](https://www.eff.org/privacybadger#faq-What-is-Privacy-Badger?):
 >Privacy Badger is a browser add-on that stops advertisers and other third-party trackers from secretly tracking where you go and what pages you look at on the web.  If an advertiser seems to be tracking you across multiple websites without your permission, Privacy Badger automatically blocks that advertiser from loading any more content in your browser.  To the advertiser, it's like you suddenly disappeared.
@@ -112,9 +114,9 @@ At this point you will likely see three green checkmarks, but still that last pe
 ![Image](fp.jpeg)
 Getting rid of your browser fingerprint is much, much trickier than a simple browser extension.  One [article](https://nakedsecurity.sophos.com/2014/07/28/panopticlick-reveals-the-cookie-you-cant-delete/) calls it "the cookie you can't delete".
 
-After you run the fingerprinting tool, click on the 'fingerprinting' link to see how unique your browser combintation is.  *(This is one of the rare times that I feel less secure being a Linux user.)*
+After you run the fingerprinting tool, click on the 'fingerprinting' link to see how unique your browser combination is.  *(This is one of the rare times that I feel less secure being a Linux user.)*
 
-The reason that it is [hard](https://www.eff.org/privacybadger#faq-Does-Privacy-Badger-prevent-fingerprinting?) to hide this because it is a characteristic of your browser configuration. It is not pratical to block or fake all information, such as the user agent string (ex: 'Mozilla/5.0') from your browser, although some techniques may help.
+The reason that it is [hard](https://www.eff.org/privacybadger#faq-Does-Privacy-Badger-prevent-fingerprinting?) to hide this because it is a characteristic of your browser configuration. It is not practical to block or fake all information, such as the user agent string (ex: 'Mozilla/5.0') from your browser, although some techniques may help.
 
 <br><br><br><br><br><br>
 <hr>
